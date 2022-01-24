@@ -9,4 +9,4 @@ The primary data used is  provided by MTA Turnstile Data, that includes data fo
 ## Algorithms
 Thorough EDA of the data, that includes cleaning, exploration, aggregation, and visualization. 
 ## Tools
-Ingesting raw data into a SQL database and querying from that database into Python via SQLAlchemy. EDA performed using pandas. Visualization was performed using Matplotlib, Seaborn and Plotly.
+Ingesting raw data into a SQL database and querying from that database into Python via SQLAlchemy. Data manipulation performed using Pandas and Numpy. Visualization carried out using Matplotlib, Seaborn and Plotly.
